@@ -1,2 +1,1 @@
-This is my coursework of Programming for
-Developers
+This is my coursework of Programming for Developers.
